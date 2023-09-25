@@ -28,7 +28,7 @@ Doyit is a cross-platform application, available for:
 To install Doyit, you can clone this GitHub repository:
 
 ```bash
-git clone https://github.com/yourusername/doyit.git
+git clone https://github.com/R0yalPrince/doyit.git
 cd doyit
 ```
 
