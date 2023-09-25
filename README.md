@@ -3,7 +3,7 @@
 
 # Screenshots
 ![Screenshot 1](Screenshots/IMG-20230925-WA0007.jpg)
-![Screenshot 2](Screenshots/IMG-20230925-WA0006.jpg)
+![Screenshot 2](Screenshots/IMG-20230925-WA0008.jpg)
 ![Screenshot 3](Screenshots/IMG-20230925-WA0006.jpg)
 
 Doyit is a versatile cross-platform goal tracking application that allows you to set and track an unlimited number of goals. With Doyit, you can easily monitor your progress, mark completed goals, and keep yourself motivated to achieve your objectives. Say goodbye to the hassle of deleting goals and enjoy a seamless goal management experience.
