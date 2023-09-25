@@ -2,7 +2,7 @@
 
 
 ![Screenshot 1](#Screenshots/IMG-20230925-WA0007.jpg)
-![Screenshot 2](#Screenshots/IMG-20230925-WA0008.jpg)
+![Screenshot 2](#Screenshots/IMG-20230925-WA0006.jpg)
 ![Screenshot 3](#Screenshots/IMG-20230925-WA0006.jpg)
 ![Screenshot 4](#Screenshots/IMG-20230925-WA0005.jpg)
 
